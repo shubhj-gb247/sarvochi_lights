@@ -1,0 +1,3 @@
+Works with led, able to control both white and warm lights using irlz44n mosfet.
+Had to pull out an extra wire from the capacitor -ve terminal to get a stable 
+ground as white -ve and warm -ve were used for pwm.
